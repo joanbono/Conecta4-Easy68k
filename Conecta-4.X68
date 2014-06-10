@@ -2,7 +2,8 @@
 * Title      :CONECTA-4
 * Written by :Dario Alandes Codina y Joan Bono Aguilar
 * Date       :11/06/2014
-* Description:  
+* Description:Juego Conecta-4 para MC68000 de Motorola
+* Observación:Falta audio tipo wav con nombre INICIO.wav
 *-----------------------------------------------------------
     ORG    $1000
 
